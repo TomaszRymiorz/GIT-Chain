@@ -6,6 +6,7 @@ Mechanizm napędu łańcuchowego został zbudowany na bazie ESP8266 wraz z modu�
 
 ### Pliki obudowy, części oraz dokładny opis montażu
 Oryginalne pliki projektu Window Chain Actuator: https://www.thingiverse.com/thing:3577666
+
 Pliki zmodyfikowane przeze mnie: https://www.thingiverse.com/thing:4580200
 
 ### Możliwości
